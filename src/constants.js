@@ -125,7 +125,7 @@ export const SkillsInfo = [
       date: "Apr 2022 - March 2023",
       grade: "56.68%",
       desc: "I completed my class 12 education from Navyug Vidhiyalay - morbi, under the CBSE board, where I studied Physics, Chemistry, and Mathematics (PCM) with Computer Science.",
-      degree: "CBSE(XII) - Computer Science",
+      degree: "HSC(XII) - Computer Science",
     },
     {
       id: 2,
@@ -134,7 +134,7 @@ export const SkillsInfo = [
       date: "Apr 2019 - March 2020",
       grade: "70%",
       desc: "I completed my class 10 education from Navyug sankul virpar - morbi, under the CBSE board.",
-      degree: "CBSE(X) ",
+      degree: "SSC(X) ",
     },
   ];
   
