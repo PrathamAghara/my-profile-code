@@ -114,7 +114,7 @@ export const SkillsInfo = [
       img: DU,
       school: "Darshan University, Rajkot",
       date: "Sept 2023 - July 2026",
-      grade: "6.99 CGPA",
+      grade: "7.02 CGPA",
       desc: "I have pursuing my B.tech degree (CSE) in Darshan University, Rajkot.",
       degree: "Computer Science Enginnering - CSE",
     },
