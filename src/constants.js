@@ -138,7 +138,7 @@ export const SkillsInfo = [
     },
   ];
   
-  export const project = [
+  export const Projects = [
     {
       id: 0,
       title: "bill-generator",
