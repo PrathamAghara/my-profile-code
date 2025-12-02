@@ -33,6 +33,7 @@ import navyug from './assets/education_logo/navyug.png';
 import bill from './assets/work_logo/bill.png';
 import ppt from './assets/work_logo/ppt.png';
 import net from './assets/work_logo/net.png';
+import student from './assets/work_logo/student.png';
 
 export const SkillsInfo = [
   {
@@ -162,5 +163,13 @@ export const SkillsInfo = [
       image: net,
       tags: [".net","SwagerAPI","SQL"],
       github: "https://github.com/PrathamAghara/consume",
+    },
+     {
+      id: 3,
+      title: "School Student Admin",
+      description:"The School Student Admin project is a complete web-based management system designed to handle student, staff, and administrative operations efficiently. It includes secure JWT-based authentication, role-based access control (Admin/Student/Staff), student registration and management, and integration with PostgreSQL for database operations.",
+      image: student,
+      tags: ["ASP.NET Core backend","Angular frontend","PostgreSQL"],
+      github: "https://github.com/PrathamAghara/student-frontend",
     },
   ];  
