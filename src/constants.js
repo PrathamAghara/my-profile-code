@@ -1,3 +1,4 @@
+
 // Skills Section Logo's
 import htmlLogo from './assets/tech_logo/html.png';
 import cssLogo from './assets/tech_logo/css.png';
@@ -139,7 +140,7 @@ export const SkillsInfo = [
     },
   ];
   
-  export const Projects = [
+  export const projects = [
     {
       id: 0,
       title: "bill-generator",
@@ -147,6 +148,7 @@ export const SkillsInfo = [
       image: bill,
       tags: ["HTML", "CSS", "JavaScript", "nodeJS", "API","Mysql"],
       github: "https://github.com/PrathamAghara/bill-generater",
+      // webapp: "",
     },
     {
       id: 1,
